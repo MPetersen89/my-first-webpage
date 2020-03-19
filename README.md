@@ -1,12 +1,12 @@
-# _{My First Webpage}_
+# _My First Webpage_
 
-#### _{HTML Exercise for Epicodus}, {3.19.2020}_
+#### _HTML Exercise for Epicodus, 3.19.2020_
 
-#### By _**{Thomas Glenn}**_
+#### By _**Thomas Glenn**_
 
 ## Description
 
-_{This webpage has two .html files. The first, "My First Webpage" is a loose introduction with a link to the second .html file, "Favorite Things," which lists my favorite people and ice cream flavors.}_
+_This webpage has two .html files. The first, "My First Webpage" is a loose introduction with a link to the second .html file, "Favorite Things," which lists my favorite people and ice cream flavors._
 
 ## Setup/Installation Requirements
 
@@ -16,27 +16,27 @@ _{This webpage has two .html files. The first, "My First Webpage" is a loose int
 * _Write me at the email address listed below,_
 * _Or find me on Facebook!_
 
-_{This file does not require any additional, outside server, database setup or addtitional code to run.}_
+_This file does not require any additional, outside server, database setup or addtitional code to run._
 
 ## Known Bugs
 
-_{As of today there are some bugs I'm trying to work out.
+_As of today there are some bugs I'm trying to work out:
 * _The kitten photo will not render because the path to my local file, where it is kept, has not been properly defined._
-* _The dimensions of the photos in my favorite-things.html file need to be resized and I don't yet know how to do that._}_
+* _The dimensions of the photos in my favorite-things.html file need to be resized and I don't yet know how to do that._
 
 ## Support and contact details
 
-_{Because I'm just starting out in coding, I welcome any advice to help me structure this webpage. Here is my contact information:_
+_Because I'm just starting out in coding, I welcome any advice to help me structure this webpage. Here is my contact information:_
 
-* Thomas Glenn: glenaissance@yahoo.com; 415-216-3317}_
+* Thomas Glenn: glenaissance@yahoo.com; 415-216-3317_
 
 ## Technologies Used
 
-_{These files are very pedestrian using only .html.}_
+_These files are very pedestrian using only .html._
 
 ### License
 
-*{Copyright (c) 2020 Thomas Glenn
+Copyright (c) 2020 Thomas Glenn
 
-This software is licensed under the MIT license.}*
+This software is licensed under the MIT license.
 
