@@ -21,7 +21,7 @@ _This file does not require any additional, outside server, database setup or ad
 ## Known Bugs
 
 _As of today there are some bugs I'm trying to work out:
-* _The kitten photo will not render because the path to my local file, where it is kept, has not been properly defined._
+* _Many of the photos in favorite places will not render because the paths to my local files, where they are kept, have not been properly defined, or so VSC tells me..._
 * _The dimensions of the photos in my favorite-things.html file need to be resized and I don't yet know how to do that._
 
 ## Support and contact details
