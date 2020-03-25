@@ -1,42 +1,36 @@
-# _My First Webpage_
+# _{My favorite Webpage}_
 
-#### _HTML Exercise for Epicodus, 3.19.2020_
+#### _{This website will detail our favorite people}, {March 24}_
 
-#### By _**Thomas Glenn**_
+#### By _**{Niko Rivas and Thomas Glenn}**_
 
 ## Description
 
-_This webpage has two .html files. The first, "My First Webpage" is a loose introduction with a link to the second .html file, "Favorite Things," which lists my favorite people and ice cream flavors._
+_{This webpage lists "Michael's" favorite people (including his parents... what's up with that?) and his favorite ice cream flavors. This is to introduce him to new friends. Read and enjoy.}_
 
 ## Setup/Installation Requirements
 
-* _Clone this repository._
-* _Open each .html file in your web browser._
-* _Enjoy reading._
-* _Write me at the email address listed below,_
-* _Or find me on Facebook!_
+* _Clone .html file from my .git___
+* _Save file on your local desktop_
+* _Open file_
+* _Read and Enjoy!_
 
-_This file does not require any additional, outside server, database setup or addtitional code to run._
+_{This is a very pedestrian .html file. It requires no additional apps, servers, code or database setup to run.}
 
 ## Known Bugs
 
-_As of today there are some bugs I'm trying to work out:
-* _Many of the photos in favorite places will not render because the paths to my local files, where they are kept, have not been properly defined, or so VSC tells me..._
-* _The dimensions of the photos in my favorite-things.html file need to be resized and I don't yet know how to do that._
+_{There are no issues with the functionality, however the resolution and image sizes do not all match.}_
 
-## Support and contact details
+## Support and contact details 
 
-_Because I'm just starting out in coding, I welcome any advice to help me structure this webpage. Here is my contact information:_
+_{If you run into any issues or have any questions or concerns, or would like to contribute your code, please contact rivasniko@gmail or thomasgrantglenn@mac.com}_
 
-* Thomas Glenn: glenaissance@yahoo.com; 415-216-3317_
+##Technologies Used
 
-## Technologies Used
-
-_These files are very pedestrian using only .html._
+_{This file was made with HTML and CSS.}_
 
 ### License
 
-Copyright (c) 2020 Thomas Glenn
+*({This softward is licensed under the MIT license.})
 
-This software is licensed under the MIT license.
-
+Copyright (c) 2020 **_{NIKO RIVAS and THOMAS GLENN}
